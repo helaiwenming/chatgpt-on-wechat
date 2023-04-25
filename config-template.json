@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "single_chat_prefix": [
